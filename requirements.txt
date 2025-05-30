@@ -10,3 +10,4 @@ huggingface_hub>=0.26.0
 tokenizers>=0.20.0
 accelerate>=1.0.0
 protobuf<=3.20.3
+pysqlite3-binary
